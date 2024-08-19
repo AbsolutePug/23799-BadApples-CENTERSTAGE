@@ -1,5 +1,2 @@
-# FTC WIRES Autonomous based on Road Runner 1.8
-For instructions and documentation, please register at https://forms.gle/mBFYMgsE5pH3QBXa9
-For details, check out http://www.ftcwires.org/softwareplatform
-
-
+# FTC Team 23799 "Bad Apples Robotics" CENTERSTAGE
+This is our code from the CENTERSTAGE 2023-2024 season.
